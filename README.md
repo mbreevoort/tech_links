@@ -7,6 +7,9 @@ Technical links research
 ##NoSql
 * [NoSql database comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
 
+##Scala
+* [Scala stack overflow links] (http://stackoverflow.com/tags/scala/info)
+
 ##Javascript
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
 * [Template engine chooser] (http://garann.github.io/template-chooser/)
