@@ -9,4 +9,5 @@ Technical links research
 
 ##Javascript
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
+* [Template engine chooser] (http://garann.github.io/template-chooser/)
 * [Data visualisation] (http://selection.datavisualization.ch/)
