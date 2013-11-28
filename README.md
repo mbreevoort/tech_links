@@ -5,7 +5,7 @@ Technical links research
 * [Github cloud build server] (https://buildhive.cloudbees.com/)
 
 ##NoSql
-* [NoSql comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
+* [NoSql database comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
 
 ##Javascript
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
