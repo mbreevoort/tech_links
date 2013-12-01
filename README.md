@@ -11,6 +11,10 @@ Technical links research
 ##Scala
 * [Scala stack overflow links] (http://stackoverflow.com/tags/scala/info)
 
+##Regexe
+* [8 Regular Expressions You Should Know] (http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/)
+* [Java regexe tutorial] (http://tutorials.jenkov.com/java-regex/syntax.html)
+
 #Webdev
 
 ##Templating engines
