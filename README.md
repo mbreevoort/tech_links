@@ -10,7 +10,13 @@ Technical links research
 ##Scala
 * [Scala stack overflow links] (http://stackoverflow.com/tags/scala/info)
 
+#Webdev
+
+##Templating engines
+* [Thymeleaf jsp substitute] (http://www.thymeleaf.org/)
+* [JS Template engine chooser] (http://garann.github.io/template-chooser/)
+
 ##Javascript
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
-* [Template engine chooser] (http://garann.github.io/template-chooser/)
+
 * [Data visualisation] (http://selection.datavisualization.ch/)
