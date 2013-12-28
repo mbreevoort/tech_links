@@ -22,7 +22,12 @@ Technical links research
 * [JS Template engine chooser] (http://garann.github.io/template-chooser/)
 
 ##Javascript
+* [js Fiddle] (http://jsfiddle.net/)
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
 * [Data visualisation] (http://selection.datavisualization.ch/)
-* [Form Follows Fucntion html5 experience] (http://fff.cmiscm.com/)
+* [Form Follows Function, html5 experience] (http://fff.cmiscm.com/)
+
+#Database
+* [SQL Fiddle] (http://sqlfiddle.com/)
+* [Comparison of different SQL implementations] (http://troels.arvin.dk/db/rdbms/)
