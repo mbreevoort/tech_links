@@ -23,6 +23,7 @@ Technical links research
 
 ##Javascript
 * [js Fiddle] (http://jsfiddle.net/)
+* [JSON formatter & validator] (http://jsonformatter.curiousconcept.com/)
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
 * [Data visualisation] (http://selection.datavisualization.ch/)
