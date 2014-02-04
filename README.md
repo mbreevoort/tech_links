@@ -32,3 +32,6 @@ Technical links research
 #Database
 * [SQL Fiddle] (http://sqlfiddle.com/)
 * [Comparison of different SQL implementations] (http://troels.arvin.dk/db/rdbms/)
+
+#XML
+* [XSD generator from XML] (http://www.freeformatter.com/xsd-generator.html)
