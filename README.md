@@ -5,6 +5,7 @@ Technical links research
 * [stackoverflow git-for-beginners] (http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
 * [git flow blog post] (http://nvie.com/posts/a-successful-git-branching-model/)
 * [git flow tool] (https://github.com/nvie/gitflow)
+* [maven jgitflow plugin] (https://bitbucket.org/atlassian/maven-jgitflow-plugin/wiki/Home)
 * [Effective pull requests...] (http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
 * [Github cloud build server] (https://buildhive.cloudbees.com/)
 
