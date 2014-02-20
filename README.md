@@ -4,6 +4,7 @@ Technical links research
 ##Git
 * [Github cloud build server] (https://buildhive.cloudbees.com/)
 * [Effective pull requests...] (http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
+* [stackoverflow git] 
 
 ##NoSql
 * [NoSql database comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
