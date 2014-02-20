@@ -2,9 +2,11 @@ Technical links research
 ==========
 
 ##Git
-* [Github cloud build server] (https://buildhive.cloudbees.com/)
+* [stackoverflow git-for-beginners] (http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
+* [git flow blog] (http://nvie.com/posts/a-successful-git-branching-model/)
+* * [git flow tool] (https://github.com/nvie/gitflow)
 * [Effective pull requests...] (http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
-* [stackoverflow git] 
+* [Github cloud build server] (https://buildhive.cloudbees.com/)
 
 ##NoSql
 * [NoSql database comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
