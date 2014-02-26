@@ -6,6 +6,7 @@ Technical links research
 * [git flow blog post] (http://nvie.com/posts/a-successful-git-branching-model/)
 * [git flow tool] (https://github.com/nvie/gitflow)
 * [maven jgitflow plugin] (https://bitbucket.org/atlassian/maven-jgitflow-plugin/wiki/Home)
+* [git flow and jenkins] (http://www.tostring.co/git-flow-and-jenkins-part-2/)
 * [Effective pull requests...] (http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
 * [Github cloud build server] (https://buildhive.cloudbees.com/)
 
