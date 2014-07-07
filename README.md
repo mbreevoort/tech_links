@@ -34,6 +34,7 @@ Technical links research
 ##Javascript
 * [js Fiddle] (http://jsfiddle.net/)
 * [JSON formatter & validator] (http://jsonformatter.curiousconcept.com/)
+* [JSON parsers benchmark, Boon fastest] (https://github.com/RichardHightower/json-parsers-benchmark)
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
 
 * [Data visualisation] (http://selection.datavisualization.ch/)
