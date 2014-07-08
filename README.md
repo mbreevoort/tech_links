@@ -23,6 +23,7 @@ Technical links research
 * [8 Regular Expressions You Should Know] (http://net.tutsplus.com/tutorials/other/8-regular-expressions-you-should-know/)
 * [Java regexe tutorial] (http://tutorials.jenkov.com/java-regex/syntax.html)
 * [regular-expressions.info] (http://www.regular-expressions.info/)
+* [Lookahead and Lookbehind Zero-Length Assertions] (http://www.regular-expressions.info/lookaround.html)
 * [regexbuddy payed 29,95] (http://www.regexbuddy.com/)
 
 #Webdev
