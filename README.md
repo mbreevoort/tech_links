@@ -4,6 +4,10 @@ Technical links research
 ##Tools
 * [Ninite - Win Install All Your Programs at Once] (https://ninite.com/)
 
+##Domotica
+* [betaalbare-domotica compatibiliteit] (http://www.betaalbare-domotica.nl/compatibiliteits-overzicht/#Modules)
+* [bwired domotica showcase] (http://www.bwired.nl/)
+
 ##Git
 * [stackoverflow git-for-beginners] (http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
 * [git flow blog post] (http://nvie.com/posts/a-successful-git-branching-model/)
