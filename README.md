@@ -43,6 +43,7 @@ Technical links research
 * [JSON formatter & validator] (http://jsonformatter.curiousconcept.com/)
 * [JSON parsers benchmark Boon fastest] (https://github.com/RichardHightower/json-parsers-benchmark)
 * [AngularJS-Learning] (https://github.com/jmcunningham/AngularJS-Learning)
+* [Tutorials, lessons, and how-to guides for Web Development and life] (http://scotch.io/tutorials)
 
 * [Data visualisation] (http://selection.datavisualization.ch/)
 * [Form Follows Function, html5 experience] (http://fff.cmiscm.com/)
