@@ -33,6 +33,8 @@ Technical links research
 
 #Webdev
 
+* [layitout Bootstrap drag and drop] (http://www.layoutit.com/)
+
 ##Templating engines
 * [Thymeleaf jsp substitute] (http://www.thymeleaf.org/)
 * [JS Template engine chooser] (http://garann.github.io/template-chooser/)
