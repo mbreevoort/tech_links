@@ -50,6 +50,8 @@ Technical links research
 * [Data visualisation] (http://selection.datavisualization.ch/)
 * [Form Follows Function, html5 experience] (http://fff.cmiscm.com/)
 
+* [json data generator] (http://www.json-generator.com)
+
 #Database
 * [SQL Fiddle] (http://sqlfiddle.com/)
 * [Comparison of different SQL implementations] (http://troels.arvin.dk/db/rdbms/)
