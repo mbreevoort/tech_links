@@ -21,6 +21,9 @@ Technical links research
 ##NoSql
 * [NoSql database comparison] (http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
 
+##Java
+* [Java 8 what's new] (https://leanpub.com/whatsnewinjava8/read)
+
 ##Scala
 * [Scala stack overflow links] (http://stackoverflow.com/tags/scala/info)
 
