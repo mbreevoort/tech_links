@@ -4,6 +4,7 @@ Technical links research
 ##Tools
 * [Ninite - Win Install All Your Programs at Once] (https://ninite.com/)
 * [Chocolatey - Win package mananger] (https://chocolatey.org/)
+* [Brew - OSX package manager] (http://brew.sh/)
 
 ##Domotica
 * [betaalbare-domotica compatibiliteit] (http://www.betaalbare-domotica.nl/compatibiliteits-overzicht/#Modules)
