@@ -62,3 +62,7 @@ Technical links research
 
 #XML
 * [XSD generator from XML] (http://www.freeformatter.com/xsd-generator.html)
+
+#Log
+* [Papertrail] (https://papertrailapp.com/)
+* 
