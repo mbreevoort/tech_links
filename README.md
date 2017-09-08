@@ -58,6 +58,7 @@ Technical links research
 * [Form Follows Function, html5 experience] (http://fff.cmiscm.com/)
 
 * [json data generator] (http://www.json-generator.com)
+* [jsqon query tool] (http://www.jsonquerytool.com/)
 
 #Database
 * [SQL Fiddle] (http://sqlfiddle.com/)
