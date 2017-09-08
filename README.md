@@ -57,8 +57,10 @@ Technical links research
 * [Raw dataset to visual] (http://app.raw.densitydesign.org/)
 * [Form Follows Function, html5 experience] (http://fff.cmiscm.com/)
 
+##JSON tools
 * [json data generator] (http://www.json-generator.com)
 * [jsqon query tool] (http://www.jsonquerytool.com/)
+* [json schema to pojo (jackson etc)] (http://www.jsonschema2pojo.org/)
 
 #Database
 * [SQL Fiddle] (http://sqlfiddle.com/)
